@@ -1,6 +1,6 @@
 ---
-title: Добро пожаловать в клан TBG
-draft: false
+title: "Добро пожаловать в клан TBG"
+draft: true
 tags:
   - example-tag
 ---
